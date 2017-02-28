@@ -1,5 +1,5 @@
 #Code book 
-##The set of variables that were estimated from these expressions are:
+##The meanings of set of variables:
   * mean(): Mean value <br>
   * std(): Standard deviation<br>
   * mad(): Median absolute deviation<br>
