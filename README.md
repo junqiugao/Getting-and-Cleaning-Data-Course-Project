@@ -9,5 +9,5 @@ From my uploaded R script run_analysis.R, it saved the code than can solve the f
     4. Appropriately labels the data set with descriptive variable names.<br>
     5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject(uploaded as Tidy.txt).<br>
 
-And the CodeBook.md contains all the variables and summaries calculated, along with units, and any other relevant information.
+And the CodeBook.md contains the meanings of the variables.
  
