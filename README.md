@@ -7,7 +7,7 @@ From my uploaded R script run_analysis.R, it saved the code than can solve the f
     2. Extracts only the measurements on the mean and standard deviation for each measurement.<br>
     3. Uses descriptive activity names to name the activities in the data set<br>
     4. Appropriately labels the data set with descriptive variable names.<br>
-    5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.<br>
+    5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject(uploaded as Tidy.txt).<br>
 
 And the CodeBook.md contains all the variables and summaries calculated, along with units, and any other relevant information.
  
